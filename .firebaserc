@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "empleados-f8832": {
+      "hosting": {
+        "EmpleadosCrud": [
+          "empleados-f8832"
+        ]
+      }
+    }
+  }
+}
